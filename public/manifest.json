@@ -1,0 +1,17 @@
+{
+    "name": "ForteScrum",
+    "short_name": "FS",
+    "start_url": "/login",
+    "background_color": "#6777ef",
+    "description": "Project Management App",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
