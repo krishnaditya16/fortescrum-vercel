@@ -13,7 +13,8 @@
 
     <!-- Vendor CSS Files -->
     <link href="{{ asset('landing/vendor/aos/aos.css') }}" rel="stylesheet">
-    <link href="{{ asset('landing/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <!-- <link href="{{ asset('landing/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/css/bootstrap.min.css" integrity="sha512-XWTTruHZEYJsxV3W/lSXG1n3Q39YIWOstqvmFsdNEEQfHoZ6vm6E9GK2OrF6DSJSpIbRbi+Nn0WDPID9O7xB2Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="{{ asset('landing/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
     <link href="{{ asset('landing/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
     <link href="{{ asset('landing/vendor/remixicon/remixicon.css') }}" rel="stylesheet">
@@ -35,7 +36,8 @@
   <!-- Vendor JS Files -->
   <script src="{{ asset('landing/vendor/purecounter/purecounter_vanilla.js') }}"></script>
   <script src="{{ asset('landing/vendor/aos/aos.js') }}"></script>
-  <script src="{{ asset('landing/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+  <!-- <script src="{{ asset('landing/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/js/bootstrap.bundle.min.js" integrity="sha512-9GacT4119eY3AcosfWtHMsT5JyZudrexyEVzTBWV3viP/YfB9e2pEy3N7WXL3SV6ASXpTU0vzzSxsbfsuUH4sQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="{{ asset('landing/vendor/glightbox/js/glightbox.min.js') }}"></script>
   <script src="{{ asset('landing/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
   <script src="{{ asset('landing/vendor/swiper/swiper-bundle.min.js') }}"></script>

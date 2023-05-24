@@ -24,7 +24,8 @@
     <link rel="stylesheet" href="{{ asset('stisla/css/components.css') }}">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
-    <link rel="stylesheet" href="{{ asset('stisla/modules/fontawesome/css/all.min.css') }}">
+    <!-- <link rel="stylesheet" href="{{ asset('stisla/modules/fontawesome/css/all.min.css') }}"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.5.0/css/all.min.css" integrity="sha512-QfDd74mlg8afgSqm3Vq2Q65e9b3xMhJB4GZ9OcHDVy1hZ6pqBJPWWnMsKDXM7NINoKqJANNGBuVRIpIJ5dogfA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!-- CSS Libraries -->
     <link rel="stylesheet" href="{{ asset('stisla/modules/select2/dist/css/select2.min.css') }}">
